@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "dependencies": {
-    "ghost": "0.11.2"
+    "ghost": "0.11.7"
   },
   "author": "amio",
   "license": "ISC"
